@@ -1,0 +1,19 @@
+$darkGray: #444444;
+$lightPink: #ff8686;
+$font-primary: 'Montserrat', sans-serif;
+
+
+.shopping-list-background {
+    background: linear-gradient(to right, black, #232323, #494949, #515050, #666666);
+    width: 100vw;
+    height: 200px;
+    border-bottom: 1rem solid $lightPink;
+
+}
+
+.shopping-list-heading {
+    color: #fffafa;
+    text-align: center;
+    padding-top: 55px;
+    font-family: $font-primary;
+}
